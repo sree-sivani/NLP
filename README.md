@@ -28,7 +28,7 @@ The following libraries are utilized in the code and experiments:
 ## 🚀 How to Use
 Feel free to clone the repository if you'd like to follow along with my learning process, run the code, or reference any of the materials. You can use the following command:
 ```
-git clone https://github.com/yourusername/nlp-learning.git
+git clone https://github.com/sree-sivani/nlp-learning.git
 ```
 
 ## 📝 Contributions
