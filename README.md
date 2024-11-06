@@ -1,9 +1,9 @@
 
 # Natural Language Processing (NLP) Learning Repository
 
-Welcome to my NLP learning repository! 🎓
+Welcome to my NLP learning repository! 
 
-This repository is a personal collection of notes, tutorials, and experiments as I explore various topics in Natural Language Processing (NLP). It’s not tied to any specific project but rather serves as a knowledge hub while I work through key NLP concepts and techniques.
+This repository is a personal collection of notes, tutorials, and experiments as I explore various topics in Natural Language Processing (NLP) from various sources such as websites and youtube tutorials. It’s not tied to any specific project but rather serves as a knowledge hub while I work through key NLP concepts and techniques.
 
 ##  Topics Covered
 I will be covering (or have covered) a wide range of topics, including but not limited to:
